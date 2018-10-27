@@ -3,6 +3,9 @@
   [{
   "id" : 1,
   "name": "avinash",
-  "phone_number":1234567890
+  "brand_name":"v",
+  "phone_number":1234567890,
+  "email":"a@gmail.com",
+  "description":"Just for testing"
   }]
 }
